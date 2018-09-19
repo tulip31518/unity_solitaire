@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UIRoot
+  - Clubs
+  - Diamonds
+  - Hearts
+  - Spades
+  - UndoHolder
+  - Particles
+  - Tableau
+  - TopGrid
+  - FixedFont
+  - StarImage
+  - TopUI
+  - BotUI
+  - RaycastHelper
+  - GameBoard
+  - Colorable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: GameBoard
+    uniqueID: 29224217
+    locked: 0
+  - name: TopUI
+    uniqueID: 4188157419
+    locked: 0
+  - name: UIManager
+    uniqueID: 2369244511
+    locked: 0
+  - name: Particle
+    uniqueID: 1810992809
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
